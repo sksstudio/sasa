@@ -4,8 +4,6 @@
         "minecraft.jar": "18d358a1478f158cd45b88f4068c872fb099df64",
         "preminecraft.jar": "7ef32d3f10762f6d80c785b2c2d7d76157bcbd46",
         "preminecraft.jar.md5": "5f8b7f2493be561c438ba57518491dd3",
-        "racguard_x64": "406ce0cc02f64e4e855cc59fe0a05bd84fb3da7f",
-        "racguard_x32": "bebed332813ec3c551b170a880a779de3a0ee54f",
         "minecraft.jar.md5": "18ba92f499df36e0b1f434d99aa94f24",
         "launcher.exe": "562849db7dea47808af81770d199b41fea6547a0",
         "beta.jar": "bb6592bac7eb7be80b8ec79813b54f7a9bdcc12c",
